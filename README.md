@@ -1,6 +1,6 @@
-## 🔐 Cryptic-Breaker – Python Password Security Tools
+## 🔐 Password cracker techniques.
 
-**Cryptic-Breaker** is a collection of Python scripts designed to demonstrate common password recovery and security testing techniques. This project provides practical examples of **Brute-Force simulation** and **Dictionary-Based hash cracking** to highlight the importance of strong credential management.
+** Password cracker techniques.** is a collection of Python scripts designed to demonstrate common password recovery and security testing techniques. This project provides practical examples of **Brute-Force simulation** and **Dictionary-Based hash cracking** to highlight the importance of strong credential management.
 
 ---
 
